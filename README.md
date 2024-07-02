@@ -1,5 +1,8 @@
 # JPokeBattle
 
+IMPORTANTE:
+Qualora all'interno dei vostri file di gioco non fosse presente una cartella "saves" è necessario crearla al path relativo "JPokeBattle/" (Ovvero allo stesso livello [non dentro] della cartella assets)
+
 FEATURE IMPLEMENTATE:
 - 19 Pokemon, con tutte le loro statistiche e mosse dettagliatamente incluse
 - Tutte le formule correlate al danno ( calcolo efficacia, critico, stab ecc)  e le formule di Buff e Debuff 
